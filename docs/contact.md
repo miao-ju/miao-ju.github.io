@@ -23,5 +23,3 @@ title: Contact
     <a href="https://github.com/orangejuly56">GitHub</a>
     //
     <a href="https://linkedin.com/in/miao-ju-561505222/">LinkedIn</a>
-    //
-    <a href="https://twitter.com/oranges56">Twitter</a>
