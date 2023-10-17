@@ -21,7 +21,7 @@ title: Home
 <center>
 
 <div class="container">
-<img class="profile" src="IMG_0135.PNG">
+<img class="profile" src="docs/IMG_0135.png">
 
 <div>
 <p style="text-align: justify;">
