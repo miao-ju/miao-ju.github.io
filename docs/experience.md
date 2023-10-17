@@ -29,7 +29,7 @@ Our users rely heavily on the Stability AI Developer Platform to call our APIs. 
 <h2 class="nopad">Tencent</h1>
 <h4 class="nopad">Tehcnical Product Manager Intern</h4>
 
-I spent the summer working as an intern...
+I spent the summer working as an intern at Tecent on game Wild Rift. The Champion Highlight I was involved feature will record users' amazing moments in a battle. Computer Vision plus game log empoweres this feature which boosts sharing of game videos.
 
 
 <h2 class="nopad">ByteDance</h1>
