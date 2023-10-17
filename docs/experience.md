@@ -35,4 +35,4 @@ I spent the summer working as an intern at Tecent on game Wild Rift. The Champio
 <h2 class="nopad">ByteDance</h1>
 <h4 class="nopad">Platform Product Manager Intern</h4>
 
-I spent the summer working as an intern...
+Internship at ByteDance
