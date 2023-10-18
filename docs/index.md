@@ -27,7 +27,7 @@ Hello! I am currently a senior product manager <a href="https://stability.ai" ta
 </p>
 
 <p class="intro">
-When I'm not working on bringing generative AI to customers, you might find me volunteering <a href="https://www.oxmindguide.org.uk" target="_blank">@OxMind</a>; exploring new restaurants in London; or sleeping.
+When I'm not working on bringing generative AI to customers, you might find me volunteering <a href="https://www.oxmindguide.org.uk" target="_blank">@OxMind</a>; exploring new restaurants in London; or hiking.
 </p>
 
 </div>

@@ -35,4 +35,4 @@ I spent the summer working as an intern at Tecent on game Wild Rift. The Champio
 <h2 class="nopad">ByteDance</h1>
 <h4 class="nopad">Platform Product Manager Intern</h4>
 
-Internship at ByteDance
+Interning at ByteDance ignited my passion for product management. The first time I applied the algorithms I learned in university to create products, I realized how they could truly benefit people. From developing the first product prototype to refining subsequent versions, each step was incredibly rewarding. Witnessing more users engaging with our product for longer durations filled me with a profound sense of achievement.
