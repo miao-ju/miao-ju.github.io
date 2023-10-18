@@ -26,13 +26,14 @@ Working on <a href="https://beta.dreamstudio.ai/" target="_blank">@DreamStudio</
 #### <a href="https://platform.stability.ai" target="_blank">API Platform Reboot</a>
 Our users rely heavily on the Stability AI Developer Platform to call our APIs. I have been responsible for improving the user experience on this platform, managing a full reboot.
 
-<h2 class="nopad">Tencent</h1>
+
+## <a href="https://www.tencent.com/en-us/" target="_blank">Tencent</a>
 <h4 class="nopad">Tehcnical Product Manager Intern</h4>
 
 I spent the summer working as an intern at Tecent on game Wild Rift. The Champion Highlight I was involved feature will record users' amazing moments in a battle. Computer Vision plus game log empoweres this feature which boosts sharing of game videos.
 
 
-<h2 class="nopad">ByteDance</h1>
+## <a href="https://www.bytedance.com/en/" target="_blank">ByteDance</a>
 <h4 class="nopad">Platform Product Manager Intern</h4>
 
 Interning at ByteDance ignited my passion for product management. The first time I applied the algorithms I learned in university to create products, I realized how they could truly benefit people. From developing the first product prototype to refining subsequent versions, each step was incredibly rewarding. Witnessing more users engaging with our product for longer durations filled me with a profound sense of achievement.

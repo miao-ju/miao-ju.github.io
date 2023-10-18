@@ -48,11 +48,8 @@ extra:
 
   social:
 
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/oranges56
-
     - icon: fontawesome/brands/github
-      link: https://github.com/orangejuly56
+      link: https://github.com/miao-ju
 
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/miao-ju-561505222/
@@ -115,8 +112,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
-repo_url: https://github.com/orangejuly56
-repo_name: orangejuly56
+repo_url: https://github.com/miao-ju
+repo_name: Miao Ju
 
 copyright: Copyright &copy; 2023 Miao Ju
 
