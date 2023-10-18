@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  align-items: center;
+  width: 95%;
+}
+
+p.intro {
+  text-align: justify; 
+  padding-left: 20px;
+}
+
+img.profile {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+  padding: 70px;
+  float: left;
+  vertical-align: middle;
+}
+
+.bib {
+  line-height: 1.35;
+  margin-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 1em;
+  width: 75%;
+}
+
+h1.nopad, h2.nopad h4.nopad {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.inline {
+  display: inline-block;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 0;
+}
