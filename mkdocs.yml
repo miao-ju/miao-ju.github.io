@@ -111,9 +111,8 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-repo_url: <a href="https://github.com/miao-ju"/a>
-#repo_url: https://github.com/miao-ju
-## <a href="https://stability.ai" target="_blank">StabilityAI</a>
+# repo_url: <a href="https://github.com/miao-ju" target="_blank">Miao Ju</a>
+repo_url: https://github.com/miao-ju
 repo_name: Miao Ju
 
 copyright: Copyright &copy; 2023 Miao Ju
